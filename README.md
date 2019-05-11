@@ -3,7 +3,7 @@ Sudoku game is well famous and popular game among many players all over the worl
 In addition, the report details the implementation of the complexity of the algorithms used to solve any kind of Sudoku puzzle. Also, how to generate a puzzle with different level of difficulties and make sure there will be only one solution that appears to be best. 
 The aim of the report is also to discuss the backtracking, brute force algorithms and other logics in order to create and solve Sudoku puzzles.  
 
-![2](https://user-images.githubusercontent.com/36246420/57571167-07ce8680-7428-11e9-97a3-8bc24848053f.gif)
+
 
   
   
