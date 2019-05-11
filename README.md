@@ -15,7 +15,7 @@ We also had a look on DFS as well as Doubly Linked List but the output was not a
 
 ## DATA STRUCTURE USED 
 We used 2-D Array as the Data Structure for implementing our Sudoku Solver which solves the Sudoku in O(n^n^2) that is Big O of n raise to the power of n squared. 
- 
+![1](https://user-images.githubusercontent.com/36246420/57571140-c9d16280-7427-11e9-8657-284ae91e380b.jpg) 
  
  
  
